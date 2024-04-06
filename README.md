@@ -21,7 +21,7 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 
     Clone the repository:
 
-    bash git clone https://github.com/yourusername/sql-injection-checker.git
+    bash git clone https://github.com/invalidEth0/ScrapINJ.git
 
 ## Install dependencies:
     bash pip install -r requirements.txt
@@ -30,4 +30,4 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 
 ## Run the script with your target URL:
 ```bash
-python sql_injection_checker.py https://www.example.com/
+python scrapp.py https://www.example.com/
